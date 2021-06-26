@@ -12,7 +12,7 @@
 		<Age>43</Age>
 		<ReceiptDate>2021-04-08</ReceiptDate>
 		<SumOfTreatment>1234.5</SumOfTreatment>
-		<TreatmentType>Стационарное</TreatmentType>
+		<TreatmentType>Амбулаторное</TreatmentType>
    </Patient>
    <Patient>
 		<Name>Катя</Name>
