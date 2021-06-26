@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Exams\Exams\obj\Debug\Exams.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Exams\Exams\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\Exams\Exams\obj\Debug\App.g.cs
+C:\Users\User\source\repos\Exams\Exams\obj\Debug\Exams_MarkupCompile.cache
+C:\Users\User\source\repos\Exams\Exams\obj\Debug\Exams_MarkupCompile.lref
+C:\Users\User\source\repos\Exams\Exams\bin\Debug\Exams.exe.config
+C:\Users\User\source\repos\Exams\Exams\bin\Debug\Exams.exe
+C:\Users\User\source\repos\Exams\Exams\bin\Debug\Exams.pdb
+C:\Users\User\source\repos\Exams\Exams\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\Exams\Exams\obj\Debug\Exams.g.resources
+C:\Users\User\source\repos\Exams\Exams\obj\Debug\Exams.Properties.Resources.resources
+C:\Users\User\source\repos\Exams\Exams\obj\Debug\Exams.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Exams\Exams\obj\Debug\Exams.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exams\Exams\obj\Debug\Exams.exe
+C:\Users\User\source\repos\Exams\Exams\obj\Debug\Exams.pdb
