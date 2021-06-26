@@ -69,6 +69,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Model\DataProvaider.cs" />
     <Compile Include="Model\Globals.cs" />
     <Compile Include="Model\LocalDataProvider.cs" />
     <Compile Include="Model\IDataProvider .cs" />

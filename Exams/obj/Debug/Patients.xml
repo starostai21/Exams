@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPatient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Patient>
+		<Name>Вася</Name>
+		<Age>23</Age>
+		<ReceiptDate>2021-04-08</ReceiptDate>
+		<SumOfTreatment>2345.7</SumOfTreatment>
+		<TreatmentType>Стационарное</TreatmentType>
+   </Patient>
+   <Patient>
+		<Name>Леха</Name>
+		<Age>43</Age>
+		<ReceiptDate>2021-04-08</ReceiptDate>
+		<SumOfTreatment>1234.5</SumOfTreatment>
+		<TreatmentType>Стационарное</TreatmentType>
+   </Patient>
+   <Patient>
+		<Name>Катя</Name>
+		<Age>9</Age>
+		<ReceiptDate>2021-04-08</ReceiptDate>
+		<SumOfTreatment>1279.9</SumOfTreatment>
+		<TreatmentType>Амбулаторное</TreatmentType>
+   </Patient>
+   </ArrayOfPatient>

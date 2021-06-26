@@ -47,6 +47,8 @@ namespace Exams
             DataContext = this;
             Globals.dataProvider = new LocalDataProvider();
             PatientList = Globals.dataProvider.GetPatients();
+            Globals.dataProvider = new DataProvider(@"../../buyers.xml");
+            PatientList = Globals.dataProvider.GetPatients();
             PatientTypeList = Globals.dataProvider.GetPatientTypes().ToList();
             PatientTypeList.Insert(0, new PatientType { Title = "Все типы" });
         }
